@@ -1,0 +1,11 @@
+# Môi trường ảo (Tuyệt đối không đẩy cái này lên)
+env/
+__pycache__/
+*.pyc
+
+# Dữ liệu và Log (Dễ làm nặng repo)
+defect_images_*/
+defect_log_*.txt
+
+# File hệ thống
+.DS_Store
